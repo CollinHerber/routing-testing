@@ -18,7 +18,6 @@
         "update-services": "npx orval@latest"
     },
     "dependencies": {
-        "@chicksgroup/ui-components": "^2.10.6",
         "@material/web": "1.2.0",
         "aurelia": "2.0.0-beta.11",
         "aurelia-fetch-client": "^1.8.2",
