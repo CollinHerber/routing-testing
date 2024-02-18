@@ -7,7 +7,7 @@ import { UnknownRoute } from './pages/unknown-route/unknown-route';
 import './app.scss';
 
 const routes = [Home, SignIn, UnknownRoute];
-@route({ title: 'Divica Sales', routes: routes, fallback: '404' })
+@route({ title: 'Test App', routes: routes, fallback: '404' })
 export class App {
 
 }

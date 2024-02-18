@@ -1,6 +1,6 @@
 {
-    "name": "divicasales-ui",
-    "description": "Divica Sales Web Application.",
+    "name": "test-app",
+    "description": "Test MVP Web Application.",
     "version": "0.1.0",
     "repository": {
         "type": "git",
@@ -27,6 +27,7 @@
         "@aurelia/router-lite": "2.0.0-beta.11",
         "@aurelia/runtime-html": "2.0.0-beta.11",
         "@aurelia/state": "2.0.0-beta.11",
+        "@aurelia/metadata": "2.0.0-beta.11",
         "@aurelia/validation": "2.0.0-beta.11",
         "@aurelia/validation-html": "2.0.0-beta.11",
         "@aurelia/vite-plugin": "2.0.0-beta.11",
