@@ -19,6 +19,9 @@ dependencies:
     version: 1.13.12
 
 devDependencies:
+  '@aurelia/metadata':
+    specifier: 2.0.0-beta.11
+    version: 2.0.0-beta.11
   '@aurelia/router-lite':
     specifier: 2.0.0-beta.11
     version: 2.0.0-beta.11
